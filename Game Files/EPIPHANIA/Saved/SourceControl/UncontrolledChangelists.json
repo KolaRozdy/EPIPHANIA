@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Levels/Test.umap",
+				"D:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Assets/Objects/Playground/Playground_Floor_Floor.uasset",
+				"D:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Assets/Objects/Playground/Playground_Floor_Walls.uasset",
+				"D:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Assets/Objects/Playground/Playground_Slide_Slide_Poles.uasset",
+				"D:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Assets/Objects/Playground/Playground_Slide_Slide_Poles2.uasset",
+				"D:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Assets/Objects/Playground/Playground_Slide_Slide_Slope.uasset",
+				"D:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Assets/Objects/Playground/Playground_Slide_Slide_Stairs.uasset",
 				"E:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Levels/Test.umap",
 				"E:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Assets/Objects/TestFloor.uasset",
 				"E:/EPIPHANIA/EPIPHANIA/Game Files/EPIPHANIA/Content/Assets/Materials/TestFloor_M.uasset",
